@@ -1,6 +1,6 @@
-name: Diagrams
-version: 1.0.4
-description: "This plugin allows to easily create amazing and powerful diagrams in Markdown"
+name: Mermaid Diagrams
+version: 1.0.0
+description: "This plugin adds the simple and powerful [mermaid diagram language](https://mermaidjs.github.io/) to Grav."
 icon: edit
 author:
   name: Aurélien Wolz
