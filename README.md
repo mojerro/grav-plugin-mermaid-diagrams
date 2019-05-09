@@ -55,19 +55,6 @@ The plugin will transform this sequence to display the following diagram:
   <i>Created diagram</i>
 </p>
 
-## Customization
-
-Multiple colors are available for flow diagrams:
-- **simple**: white, #FFFFFF
-- **positive** : dark blue, #387EF5
-- **success** : green, #9FF781
-- **invalid** : red, #FA8258
-- **calm** : blue, #11C1F3
-- **royal** : purple, #CF86E9
-- **energized** : yellow, #F3FD60
-
-> Note: You can change colors at the end of the file : diagrams.php
-
 # Settings
 
 You can parameterize the plugin to suit your usage
@@ -105,3 +92,7 @@ Manually updating Diagrams is pretty simple. Here is what you will need to do to
 * Download the new version of the Mermaid Diagrams plugin from [GitHub](https://github.com/DanielFlaum/grav-plugin-mermaid-diagrams) as a zip file.
 * Unzip the zip file in `your/site/user/plugins` and rename the resulting folder to `mermaid-diagrams`.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
+
+# Credit
+
+This plugin was forked from [Aurélien Wolz's](https://github.com/Seao) excellent [Diagram Plugin](https://github.com/Seao/grav-plugin-diagrams). Many thanks to him sharing it with everyone.
