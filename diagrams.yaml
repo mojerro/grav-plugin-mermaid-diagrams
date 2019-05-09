@@ -30,4 +30,4 @@ condition:
 # ****************
 
 gantt:
-  axis: %d-%m-%Y # Default gantt diagram axis format (https://github.com/d3/d3-3.x-api-reference/blob/master/Time-Formatting.md)
+  axis: '%d-%m-%Y' # Default gantt diagram axis format (https://github.com/d3/d3-3.x-api-reference/blob/master/Time-Formatting.md)
