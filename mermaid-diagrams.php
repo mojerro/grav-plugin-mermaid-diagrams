@@ -95,7 +95,7 @@ class MermaidDiagramsPlugin extends Plugin
                       axisFormatter: [[\"".$this->gantt_axis."\", function (d){return d.getDay() == 1;}]]
                     };
                  });";
-                 
+
         $this->grav['assets']->addInlineJs($init);
     }
 }
