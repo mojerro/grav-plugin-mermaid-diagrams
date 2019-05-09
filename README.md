@@ -95,4 +95,4 @@ Manually updating Diagrams is pretty simple. Here is what you will need to do to
 
 # Credit
 
-This plugin was forked from [Aurélien Wolz's](https://github.com/Seao) excellent [Diagram Plugin](https://github.com/Seao/grav-plugin-diagrams). Many thanks to him sharing it with everyone.
+This plugin was forked from [Aurélien Wolz's](https://github.com/Seao) excellent [Diagram Plugin](https://github.com/Seao/grav-plugin-diagrams). Many thanks to him for sharing it with everyone.
