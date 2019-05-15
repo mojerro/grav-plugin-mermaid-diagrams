@@ -3,9 +3,9 @@ version: 1.0.0
 description: "This plugin adds the simple and powerful [mermaid diagram language](https://mermaidjs.github.io/) to Grav."
 icon: edit
 author:
-  name: Aurélien Wolz
-  email: wolzaurelien@gmail.com
-  url: http://wolzaurelien.com
+  name: Daniel Flaum
+  email: talk@danielflaum.net
+  url: https://danielflaum.net
 license: MIT
 
 form:
