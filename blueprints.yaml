@@ -6,6 +6,9 @@ author:
   name: Daniel Flaum
   email: talk@danielflaum.net
   url: https://danielflaum.net
+homepage: https://github.com/DanielFlaum/grav-plugin-mermaid-diagrams
+keywords: diagrams, charts, graphs
+bugs: https://github.com/DanielFlaum/grav-plugin-mermaid-diagrams/issues
 license: MIT
 
 form:
@@ -13,7 +16,7 @@ form:
   fields:
     enabled:
       type: toggle
-      label: Plugin status
+      label: Enabled
       highlight: 1
       default: 0
       options:
