@@ -8,7 +8,7 @@ Installing the Diagrams plugin can be done in one of two ways. GPM (Grav Package
 
 ## GPM Installation (Preferred)
 
-The simplest way to install this plugin is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
+The simplest way to install this plugin is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line). From the root of your Grav install type:
 
     bin/gpm install mermaid-diagrams
 
@@ -26,7 +26,7 @@ You should now have all the plugin files under
 
 # Usage
 
-The plug-in is configured to be functional as soon as you finished installation.
+The plug-in is configured to be functional as soon as you finish installation.
 
 To add a mermaid diagram to your page, simply wrap its textual description within `[mermaid]` and `[/mermaid]` tags, as seen here:
 
@@ -64,10 +64,6 @@ You can parameterize the plugin to suit your usage
 # ****************
 
 enabled: true	# Plugin activation
-align: center	# Position of diagrams [left, center, right]
-
-gantt:
-  axis: %d-%m-%Y # Default gantt diagram axis format (https://github.com/d3/d3-3.x-api-reference/blob/master/Time-Formatting.md)
 ```
 
 # Updating
