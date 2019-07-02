@@ -2,7 +2,7 @@
 ## 02-07-2019
 
 1. [](#improved)
-    * Small corrections README.md
+    * Small corrections to README.md
 
 # v1.0.0
 ## 02-07-2019
