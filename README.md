@@ -2,6 +2,8 @@
 
 The **Mermaid Diagrams** plugin is an extension for [Grav CMS](http://github.com/getgrav/grav) that adds the simple and powerful [mermaid diagram language](https://mermaidjs.github.io/) to Grav. Diagrams are generated dynamically in the visitor's browser, thanks to mermaid's use of [D3.js](https://d3js.org/) and [dagre-d3](https://github.com/dagrejs/dagre-d3).
 
+> **This plugin is maintained lazily.** Updates--such as bumping the Mermaid library's version--aren't made unless someone specifically asks. If you want the newest version of Mermaid, speak up on https://github.com/DanielFlaum/grav-plugin-mermaid-diagrams/issues/3. For anything else, make an issue. Cheers!
+
 # Installation
 
 Installing the Diagrams plugin can be done in one of two ways. GPM (Grav Package Manager) installation method enables you to quickly and easily install the plugin with a simple terminal command, while the manual method enables you to do so via a zip file.
