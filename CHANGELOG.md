@@ -1,3 +1,9 @@
+# v1.2.0
+## 14-05-2021
+
+1. [](#new)
+   * Upgraded [mermaid](https://github.com/mermaid-js/mermaid) to v8.10.1.
+
 # v1.1.0
 ## 18-12-2019
 
